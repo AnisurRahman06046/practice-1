@@ -1,0 +1,33 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    
+}
+.container-developer{
+    display: flex;
+    background-image: url(image/bg.jpg);
+    color: chocolate;
+    
+}
+.name-color{
+    color: rgb(226, 166, 13);
+}
+.half-width{
+    width: 50%;
+    padding-left: 4%;
+    margin-bottom: 2%;
+    
+}
+h1{
+    font-size: 50px;
+}
+.button-link{
+    font-weight: 700;
+    color:rgb(28, 2, 47);
+    font-size: 20px;
+    background-image: linear-gradient(orange,rgb(221, 38, 6));
+    padding-left: 4%;
+    padding-right: 4%;
+    box-shadow: 2px 4px 6px;
+    
+    
+}
